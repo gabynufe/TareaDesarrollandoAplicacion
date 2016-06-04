@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tarea Contacto</string>
+    <string name="action_settings">Configuración</string>
+    <string name="hint_name">Nombre completo</string>
+    <string name="hint_phone">Teléfono</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_descrip">Descripción Contacto</string>
+    <string name="err_msg_name">Captura un nombre completo</string>
+    <string name="err_msg_phone">Captura un número telefónico válido</string>
+    <string name="err_msg_email">Captura una dirección de correo válida</string>
+    <string name="err_msg_descrip">Captura la descripción del contacto</string>
+    <string name="pick_date">Fecha de nacimiento</string>
+    <string name="btn_next">Siguiente</string>
+    <!-- Strings related to ConfirmaActivity -->
+    <string name="txt_titulo">Confirmar Datos</string>
+    <string name="btn_edit">Editar Datos</string>
+</resources>
